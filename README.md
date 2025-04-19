@@ -4,7 +4,7 @@ This is a simple **Bank Management System** built using **C++**, designed as a b
 - Functions
 - Loops
 - Conditional Statements
-- 
+  
 ## 🚀 Project Description
 
 This project simulates a basic console-based banking system where users can:
